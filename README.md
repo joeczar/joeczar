@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeczar
-- 👀 I’m interested in WebDev, Microntrollers & IOT, Music and Penut Butter.
+- 👀 I’m interested in WebDev, Microntrollers & IOT and Music.
 - 🌱 I’m currently learning Angular, Module Federation, Health Care & Skill development applications
 - 📫 More info, Linked in & C.V. @ [JoeCzar.com](https://joeczar.com)
 
